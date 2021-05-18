@@ -1,0 +1,23 @@
+{
+  "name": "09_readme_generator",
+  "version": "1.0.0",
+  "description": "![alt text](assets/images/screenshot.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourslaw/09_README_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourslaw/09_README_Generator/issues"
+  },
+  "homepage": "https://github.com/sourslaw/09_README_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
