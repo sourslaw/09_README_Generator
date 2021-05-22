@@ -1,5 +1,4 @@
 # README Generator
-![alt text](assets/images/screenshot.png)
 
 ## Description
 - A command-line application to generate a professional README file
@@ -21,6 +20,12 @@
 
 ### Usage
 ![alt text](assets/images/screenshot_usage.gif)
+
+- The application is invoked via the following command:  
+	-	```bash
+		node index.js
+		```
+- The interface will prompt the user with questions pertaining to the repository the README is being generated for, then output an appropriate README file titled, *generatedREADME*
 
 ### Credits
 - [Inquirer.js](https://www.npmjs.com/package/inquirer)
